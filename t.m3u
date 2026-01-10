@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Точикистон HD
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Сафина HD
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Бахористон HD
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Чахоннамо HD
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://epg.iptvx.one/picons/varzish-sport.png", Варзиш Sport HD
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Синамо HD
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Душанбе HD
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Футбол HD
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", ТВ Шахновоз HD
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", ТВ Хатлон
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", ТВ Бадахшон
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", ТВ Кулоб
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", ТВ Сугд
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Илм ва Табиат HD
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1", Сайёхи HD
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.one/img2/711.png", Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/rossia1.png", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Россия РТР
+http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/rossia-24.png", Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/kultura.png", Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/pervy.png", Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/pervy-info-by.png", Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/vremia.png", Время
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/bolshaya-azia.png", Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/zvezda.png", Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/rtg-hd.png", RTG HD
+http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/mir.png", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/mir24.png", Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/izvestia.png", Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/360-news.png", 360° Новости HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.one/img2/162.png", НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/ntv.png", НТВ HD
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/tvcentr.png", ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/5kanal-ru.png", Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.one/img2/18.png", Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/rentv.png", Рен ТВ HD
+type="stream" channelId="-1" logo="https://iptvx.one/picons/rentv.png", Рен ТВ HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/rentv-int.png", Рен ТВ Int.
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/domashny.png", Домашний HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/domashny.png", Домашний +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/domashny.png", Домашний +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/domashny-int.png", Домашний Int.
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://karnei4.github.io/convert/logo-z/6134eef97b82d553a7ba4a1ecaca1fde.png", Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://karnei4.github.io/convert/logo-z/6134eef97b82d553a7ba4a1ecaca1fde.png", Ю +2
+https://karnei4.github.io/convert/logo-z/6134eef97b82d553a7ba4a1ecaca1fde.png
+#EXTINF:0 type="stream" channelId="-1" logo="https://karnei4.github.io/convert/logo-z/6134eef97b82d553a7ba4a1ecaca1fde.png", Ю +4
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/tnt.png", ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/tnt.png", ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/tnt4.png", ТНТ4 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/sts.png", СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/sts-love.png", СТС Love
+http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/sts-int.png", СТС Int.
+http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/perec.png", Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.one/img2/1003.png", Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/che.png", Че!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/match-tv.png", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:0 type="stream" channelId="-1", Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:0 type="stream" channelId="-1", Матч! Премьер
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Матч! Футбол 1
+http://185.58.205.1:4022/udp/224.0.91.65:1234
+#EXTINF:0 type="stream" channelId="-1", Матч! Футбол 2
+http://185.58.205.1:4022/udp/224.0.91.66:1234
+#EXTINF:0 type="stream" channelId="-1", Матч! Футбол 3
+http://timeshift.arpinet.am/110/mpegts
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/setanta-sports.png", Setanta Sports 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/setanta-sports-plus.png", Setanta Sports 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sky Sports Football HD
+https://7pal.short.gy/ssportsfb
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 1 HD
+https://7pal.short.gy/tntspts1
+#EXTINF:0 type="stream" channelId="-1", TNT Sports 2 HD
+https://7pal.short.gy/tntspts2
+#EXTINF:0 type="stream" channelId="-1", Okko Спорт. Прайм HD
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/okko-sport-2.png", Окко Спорт 2
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg", Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/kino-tv.png", Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://rafail1982.uz/logo/Киномикс.png", Киномикс
+http://188.113.190.15/308/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://rafail1982.uz/logo/Киносемья.png", Киносемья
+http://188.113.190.15/311/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.it999.ru/img2/2823.png", ViP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.it999.ru/img2/2824.png", VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.it999.ru/img2/2822.png", VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://epg.it999.ru/img2/2838.png", ViP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/detkinoint-tviksel.png", Детское кино Int.
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/multimuzyka.png", МУЛЬТиМУЗЫКА
+http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/karusel.png", Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/radost-moya.png", Радость моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/mult.png", Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/mama.png", Мама
+http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://iptvx.one/picons/ani.png", Ani
+http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
