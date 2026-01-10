@@ -11,7 +11,7 @@ https://live.teleradiocom.tj/3/3m.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Чахоннамо HD
 https://live.teleradiocom.tj/4/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://epg.iptvx.one/picons/varzish-sport.png", Варзиш Sport HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://epg.iptvx.one/picons/varzish-sport.png", Варзиш HD
 https://live.teleradiocom.tj/5/3m.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1", Синамо HD
@@ -238,4 +238,5 @@ http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/ani.png", Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
+
 
