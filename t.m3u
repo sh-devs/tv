@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 type="stream" channelId="-1", Точикистон HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tvt.tj/sites/default/files/logo-tvt-new-3.png", Точикистон HD
 https://live.teleradiocom.tj/1/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Сафина HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://safina.tj/wp-content/uploads/2021/05/tvs_logo_3d_icon.png", Сафина HD
 https://live.teleradiocom.tj/2/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Бахористон HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/TVBakhoristan2015-002E1514-62FF-4A6E-8DB5-297F43592650.png", Бахористон HD
 https://live.teleradiocom.tj/3/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Чахоннамо HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://mip.news/images/chahonnamo-big.png", Чахоннамо HD
 https://live.teleradiocom.tj/4/3m.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://epg.iptvx.one/picons/varzish-sport.png", Варзиш HD
 https://live.teleradiocom.tj/5/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Синамо HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tvtvtv.ru/logos/tv_sinamo.png", Синамо HD
 https://live.teleradiocom.tj/6/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Душанбе HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnus1y1dswRdZYk7yETgo7UaqLIroE4jBQvA&s", Душанбе HD
 https://live.teleradiocom.tj/7/3m.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1", Футбол HD
@@ -238,5 +238,6 @@ http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/ani.png", Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
+
 
 
