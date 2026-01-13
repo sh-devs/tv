@@ -20,10 +20,10 @@ https://live.teleradiocom.tj/6/3m.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnus1y1dswRdZYk7yETgo7UaqLIroE4jBQvA&s", Душанбе HD
 https://live.teleradiocom.tj/7/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Футбол HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/tg/2/2f/ФутболHD.jpg", Футбол HD
 https://live.teleradiocom.tj/8/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", ТВ Шахновоз HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png", ТВ Шахновоз HD
 https://live.teleradiocom.tj/9/3m.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1", ТВ Хатлон
@@ -35,13 +35,13 @@ https://live.teleradiocom.tj/11/3m.m3u8
 #EXTINF:-1 type="stream" channelId="-1", ТВ Кулоб
 https://live.teleradiocom.tj/12/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", ТВ Сугд
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQYDaQO_zg5X4lcPOEg7mR2hQZ5RFcg65XayJyX4nxxg=s900-c-k-c0x00ffffff-no-rj", ТВ Сугд
 https://live.teleradiocom.tj/14/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Илм ва Табиат HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Илм_ва_Табиат_Лого.png", Илм ва Табиат HD
 https://live.teleradiocom.tj/15/3m.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Сайёхи HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/TVSayohi.svg/330px-TVSayohi.svg.png", Сайёхи HD
 https://live.teleradiocom.tj/16/3m.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo=="http://epg.one/img2/711.png", Россия 1
@@ -50,7 +50,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/rossia1.png", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Россия РТР
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiaGlFX5FwMkjKvLDRHRuGzydGa_WMf0y8nA&s", Россия РТР
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/rossia-24.png", Россия 24
@@ -155,25 +155,25 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/che.png", Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/match-tv.png", Матч!
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tricolor-38.ru/TELEKARTA_KANAL/match_tv.png", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Матч! HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tricolor-38.ru/TRICOLOR_KANALY/match_hd.png", Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Матч! Арена
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tricolor-38.ru/TELEKARTA_KANAL/match_arena-1-.png", Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 
-#EXTINF:-1 type="stream" channelId="-1", Матч! Премьер
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tricolor-38.ru/KANALY_4/Mathc_premjer.jpg", Матч! Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Матч! Футбол 1
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tricolor-38.ru/KANALY_4/matsh-fytbol-1.png", Матч! Футбол 1
 http://185.58.205.1:4022/udp/224.0.91.65:1234
 
-#EXTINF:-1 type="stream" channelId="-1", Матч! Футбол 2
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tricolor-38.ru/KANALY_4/matsh-fytbol-2.png", Матч! Футбол 2
 http://185.58.205.1:4022/udp/224.0.91.66:1234
 
-#EXTINF:-1 type="stream" channelId="-1", Матч! Футбол 3
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://tricolor-38.ru/KANALY_4/matsh-fytbol-3.png", Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/setanta-sports.png", Setanta Sports 1 HD
@@ -182,13 +182,13 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png", Setanta Sports 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1", Sky Sports Football HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sky_Sport_Football_HD_-_Logo_2020.svg/1280px-Sky_Sport_Football_HD_-_Logo_2020.svg.png", Sky Sports Football HD
 https://7pal.short.gy/ssportsfb
 
-#EXTINF:-1 type="stream" channelId="-1", TNT Sports 1 HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png", TNT Sports 1 HD
 https://7pal.short.gy/tntspts1
 
-#EXTINF:-1 type="stream" channelId="-1", TNT Sports 2 HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png", TNT Sports 2 HD
 https://7pal.short.gy/tntspts2
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/okko-sport.png", Okko Спорт. Прайм HD
@@ -218,22 +218,22 @@ http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://rafail1982.uz/logo/Кинопремьера.png", Кинопремьера HD
 http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzMzQxMTAsImlhdCI6MTc2ODI0NzcxMCwiY2lkIjo2LCJ1aWQiOjk4ODQxOTI3NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.wstWp1je87eZpNB2jl6Z3dXYMAuoXqDnA5OfvJH5P90&offset=10
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="", TV1000 HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/tv1000.png", TV1000 HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="", TV1000 Action HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/tv1000-action.png", TV1000 Action HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2823.png", ViP Comedy HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/vip-comedy.png", ViP Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2824.png", VIP Megahit HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/vip-megahit.png", VIP Megahit HD
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2822.png", VIP Premiere HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/vip-premiere.png", VIP Premiere HD
 https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2838.png", ViP Serial HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/vip-serial.png", ViP Serial HD
 https://livetv.mylifeisgood.net.ru/channels/viju-serial.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png", Детское кино Int.
@@ -259,6 +259,7 @@ http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://karnei4.github.io/convert/logo-z/234bcf7fc1ef62c889f9129ff5af5130.png", 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
 
 
 
