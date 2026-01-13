@@ -191,10 +191,7 @@ https://7pal.short.gy/tntspts1
 #EXTINF:-1 type="stream" channelId="-1", TNT Sports 2 HD
 https://7pal.short.gy/tntspts2
 
-#EXTINF:-1 type="stream" channelId="-1", Okko Спорт. Прайм HD
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/okko-sport-2.png", Окко Спорт 2
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://iptvx.one/picons/okko-sport.png", Okko Спорт. Прайм HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg", Смотрим
@@ -221,20 +218,20 @@ http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://rafail1982.uz/logo/Кинопремьера.png", Кинопремьера HD
 http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzMzQxMTAsImlhdCI6MTc2ODI0NzcxMCwiY2lkIjo2LCJ1aWQiOjk4ODQxOTI3NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.wstWp1je87eZpNB2jl6Z3dXYMAuoXqDnA5OfvJH5P90&offset=10
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="", TV1000
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzMzQxMTAsImlhdCI6MTc2ODI0NzcxMCwiY2lkIjo2LCJ1aWQiOjk4ODQxOTI3NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.wstWp1je87eZpNB2jl6Z3dXYMAuoXqDnA5OfvJH5P90&offset=10
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="", TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 
-#EXTINF:-1 type="stream" channelId="-1" tvg-logo="", TV1000 Action
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjgzMzQxMTAsImlhdCI6MTc2ODI0NzcxMCwiY2lkIjo2LCJ1aWQiOjk4ODQxOTI3NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.wstWp1je87eZpNB2jl6Z3dXYMAuoXqDnA5OfvJH5P90&offset=10
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="", TV1000 Action HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2823.png", ViP Comedy HD
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2824.png", VIP Megahit HD
-http://arbiter.bolshoe.tv/?path=abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDI2IDc6NTU6MTAgUE0maGFzaF92YWx1ZT1DSFJDSDQydWNkdjdUV3dxNXBzaHdnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2822.png", VIP Premiere HD
-http://arbiter.bolshoe.tv/?path=abr2/tv1000_premium_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDI2IDc6NTU6MTAgUE0maGFzaF92YWx1ZT1DSFJDSDQydWNkdjdUV3dxNXBzaHdnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="http://epg.it999.ru/img2/2838.png", ViP Serial HD
 https://livetv.mylifeisgood.net.ru/channels/viju-serial.m3u8
@@ -262,6 +259,7 @@ http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://karnei4.github.io/convert/logo-z/234bcf7fc1ef62c889f9129ff5af5130.png", 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
 
 
 
